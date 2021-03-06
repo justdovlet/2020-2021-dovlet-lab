@@ -1,0 +1,18 @@
+Commits on Mar 6, 2021
+
+feat(readme): edited readme.mk  
+feat(files): added version.txt
+feat(lab): added lab 4
+feat(files): deleted an external file
+
+  
+Commits on Feb 27, 2021
+
+feat(readme): created README.md  
+feat(lab): added lab 3
+
+  
+Commits on Feb 19, 2021
+
+feat(files): removed non-used files 
+feat(lab): added lab 2
