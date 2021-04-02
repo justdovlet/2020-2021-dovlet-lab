@@ -1,3 +1,9 @@
+Commits on Apr 02, 2021
+
+feat(files): edited version.txt
+feat(readme): edited readme.md
+feat(lab): added lab 7
+
 Commits on Mar 27, 2021
 
 feat(files): edited version.txt
